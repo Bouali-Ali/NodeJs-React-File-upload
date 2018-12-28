@@ -1,1 +1,3 @@
 # Test-Technique
+1 - BackEndProduit:  pour ce premier exercice, il faudra créer une application web en reactJS qui permet d'uploader un fichier;  vous devrez utiliser nodeJS pour le back et express pour les routes.  Les fichiers seront mis dans un dossier "upload";  si le nom du fichier existe déjà vous devrez ajouter " (1)" à la fin du fichier.
+2 - Javascript:  pour ce second exercice, je vous demanderai d'écrire une fonction "getShortMessage" qui prendra en argument un Array et qui retournera un Array contenant tous les messages dont la longueur est inférieure strictement à 50 caractères. (Array.prototype ).
